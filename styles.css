@@ -1,0 +1,10 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: space-between;
+}
+.img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
